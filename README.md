@@ -4,7 +4,7 @@ Blame is an rpg that was made during my first year of my higher education
 
 # Features:
 
-Fully-fledged inventory system
+Fully-fledged inventory system <br />
 Attribute system
 Quest system
 Automatic-save system (inventory, stats, level, quests only)
