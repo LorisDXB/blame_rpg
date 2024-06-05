@@ -1,6 +1,6 @@
 # blame_rpg
 
-Blame is an rpg that was made during my first year of my higher education
+Blame is an rpg that was made during my first year of higher education
 
 # Features:
 
