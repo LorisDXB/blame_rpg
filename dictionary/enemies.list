@@ -1,0 +1,4 @@
+croc;80;10;400;assets/sprites/enemies/croco.png;1;100;800;40;0.4
+micro;140;20;350;assets/sprites/enemies/micro.png;3;200;1200;100;0.5
+golem;50;5;900;assets/sprites/enemies/golem.png;4;70;600;80;0.1
+buldozer;300;80;80;assets/sprites/enemies/buldozer.png;3;120;2000;160;0.1
