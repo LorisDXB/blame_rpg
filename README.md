@@ -1,6 +1,6 @@
 # blame_rpg
 
-Blame is an rpg made with C's CSFML library that was made during my first year of higher education
+Blame is an rpg made with C's CSFML library during my first year of higher education
 
 # Features:
 
