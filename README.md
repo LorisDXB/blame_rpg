@@ -1,6 +1,6 @@
 # blame_rpg
 
-Blame is an rpg that was made during my first year of higher education
+Blame is an rpg made with C's CSFML library that was made during my first year of higher education
 
 # Features:
 
@@ -12,3 +12,7 @@ Modular weaponry system (creating weapons is very easy, check dictionary/wep.lis
 Mobs <br />
 Player gains (level ups, mob drops, quest completion, etc...) <br />
 Procedural generation of the map upon startup <br />
+
+
+# Note:
+The game is only supported on linux
